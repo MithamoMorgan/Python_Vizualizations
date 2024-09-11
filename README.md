@@ -8,7 +8,7 @@ Python offers several plotting libraries, namely matplotlib, seaborn, and many o
 ## Matplotlib and Seaborn
 Matplotlib is a low-level plotting library that provides a high degree control over individual elements. Even for basic functionalities, it requires more code whereas Seaborn is an advanced version of matplotlib and requires less coding compared to matplotlib.
 ## Charts and Graphs
-Some of the most common charts and graphs discussed are;
+Some of the most common charts and graphs discussed are;</br>
 **1. Line Chart**</br>
 **2. Bar Graph**</br>
 **3. Stacked Bar Chart**</br>
