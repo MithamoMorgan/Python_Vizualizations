@@ -11,7 +11,7 @@ Matplotlib is a low-level plotting library that provides a high degree control o
 Some of the most common charts and graphs discussed are;
 **1. Line Chart**</br>
 **2. Bar Graph**</br>
-**3. Stack Bar**</br>
+**3. Stacked Bar Chart**</br>
 **4. Histogram**</br>
 **5. Heat Map**</br>
 **6. Box plot**</br>
